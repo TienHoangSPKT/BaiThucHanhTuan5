@@ -8,7 +8,7 @@ public class Test {
         sach2.setMaSach("S002");
         sach2.setTieuDe("Lap trinh huong doi tuong");
         sach2.setTacGia("Nguyen Tien Hoang");
-        sach2.setNamXuatBan22025);
+        sach2.setNamXuatBan(2025);
         sach2.setSoLuong(5);
 
         
