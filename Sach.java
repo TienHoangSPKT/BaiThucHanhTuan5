@@ -22,11 +22,13 @@ public class Sach{
     }
     public void HienThiThongTin()
     {
+        System.out.println("--------------------");
         System.out.println("Mã sách: "+Masach);
         System.out.println("Tiêu đề: "+TieuDe);
         System.out.println("Tác giả: "+Tacgia);
         System.out.println("năm Xuất bản: "+NamXuatBan);
         System.out.println("Số lượng"+Soluong);
+        System.out.println("--------------------\n");
     }
     public String getMasach() {
         return Masach;
